@@ -1,0 +1,16 @@
+/home/zavid/progII/strper/bin/Debug/net5.0/strper
+/home/zavid/progII/strper/bin/Debug/net5.0/strper.deps.json
+/home/zavid/progII/strper/bin/Debug/net5.0/strper.runtimeconfig.json
+/home/zavid/progII/strper/bin/Debug/net5.0/strper.runtimeconfig.dev.json
+/home/zavid/progII/strper/bin/Debug/net5.0/strper.dll
+/home/zavid/progII/strper/bin/Debug/net5.0/ref/strper.dll
+/home/zavid/progII/strper/bin/Debug/net5.0/strper.pdb
+/home/zavid/progII/strper/obj/Debug/net5.0/strper.csprojAssemblyReference.cache
+/home/zavid/progII/strper/obj/Debug/net5.0/strper.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/progII/strper/obj/Debug/net5.0/strper.AssemblyInfoInputs.cache
+/home/zavid/progII/strper/obj/Debug/net5.0/strper.AssemblyInfo.cs
+/home/zavid/progII/strper/obj/Debug/net5.0/strper.csproj.CoreCompileInputs.cache
+/home/zavid/progII/strper/obj/Debug/net5.0/strper.dll
+/home/zavid/progII/strper/obj/Debug/net5.0/ref/strper.dll
+/home/zavid/progII/strper/obj/Debug/net5.0/strper.pdb
+/home/zavid/progII/strper/obj/Debug/net5.0/strper.genruntimeconfig.cache

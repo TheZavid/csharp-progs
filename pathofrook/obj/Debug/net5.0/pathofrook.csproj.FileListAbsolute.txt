@@ -1,0 +1,16 @@
+/home/zavid/progII/pathofrook/bin/Debug/net5.0/pathofrook
+/home/zavid/progII/pathofrook/bin/Debug/net5.0/pathofrook.deps.json
+/home/zavid/progII/pathofrook/bin/Debug/net5.0/pathofrook.runtimeconfig.json
+/home/zavid/progII/pathofrook/bin/Debug/net5.0/pathofrook.runtimeconfig.dev.json
+/home/zavid/progII/pathofrook/bin/Debug/net5.0/pathofrook.dll
+/home/zavid/progII/pathofrook/bin/Debug/net5.0/ref/pathofrook.dll
+/home/zavid/progII/pathofrook/bin/Debug/net5.0/pathofrook.pdb
+/home/zavid/progII/pathofrook/obj/Debug/net5.0/pathofrook.csprojAssemblyReference.cache
+/home/zavid/progII/pathofrook/obj/Debug/net5.0/pathofrook.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/progII/pathofrook/obj/Debug/net5.0/pathofrook.AssemblyInfoInputs.cache
+/home/zavid/progII/pathofrook/obj/Debug/net5.0/pathofrook.AssemblyInfo.cs
+/home/zavid/progII/pathofrook/obj/Debug/net5.0/pathofrook.csproj.CoreCompileInputs.cache
+/home/zavid/progII/pathofrook/obj/Debug/net5.0/pathofrook.dll
+/home/zavid/progII/pathofrook/obj/Debug/net5.0/ref/pathofrook.dll
+/home/zavid/progII/pathofrook/obj/Debug/net5.0/pathofrook.pdb
+/home/zavid/progII/pathofrook/obj/Debug/net5.0/pathofrook.genruntimeconfig.cache

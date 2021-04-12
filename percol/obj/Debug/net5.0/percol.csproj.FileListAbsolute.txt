@@ -1,0 +1,16 @@
+/home/zavid/progII/percol/obj/Debug/net5.0/percol.csprojAssemblyReference.cache
+/home/zavid/progII/percol/obj/Debug/net5.0/percol.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/progII/percol/obj/Debug/net5.0/percol.AssemblyInfoInputs.cache
+/home/zavid/progII/percol/obj/Debug/net5.0/percol.AssemblyInfo.cs
+/home/zavid/progII/percol/obj/Debug/net5.0/percol.csproj.CoreCompileInputs.cache
+/home/zavid/progII/percol/bin/Debug/net5.0/percol
+/home/zavid/progII/percol/bin/Debug/net5.0/percol.deps.json
+/home/zavid/progII/percol/bin/Debug/net5.0/percol.runtimeconfig.json
+/home/zavid/progII/percol/bin/Debug/net5.0/percol.runtimeconfig.dev.json
+/home/zavid/progII/percol/bin/Debug/net5.0/percol.dll
+/home/zavid/progII/percol/bin/Debug/net5.0/ref/percol.dll
+/home/zavid/progII/percol/bin/Debug/net5.0/percol.pdb
+/home/zavid/progII/percol/obj/Debug/net5.0/percol.dll
+/home/zavid/progII/percol/obj/Debug/net5.0/ref/percol.dll
+/home/zavid/progII/percol/obj/Debug/net5.0/percol.pdb
+/home/zavid/progII/percol/obj/Debug/net5.0/percol.genruntimeconfig.cache

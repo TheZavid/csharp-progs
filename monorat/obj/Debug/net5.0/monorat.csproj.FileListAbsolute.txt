@@ -1,0 +1,16 @@
+/home/zavid/progII/monorat/obj/Debug/net5.0/monorat.csprojAssemblyReference.cache
+/home/zavid/progII/monorat/obj/Debug/net5.0/monorat.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/progII/monorat/obj/Debug/net5.0/monorat.AssemblyInfoInputs.cache
+/home/zavid/progII/monorat/obj/Debug/net5.0/monorat.AssemblyInfo.cs
+/home/zavid/progII/monorat/obj/Debug/net5.0/monorat.csproj.CoreCompileInputs.cache
+/home/zavid/progII/monorat/bin/Debug/net5.0/monorat
+/home/zavid/progII/monorat/bin/Debug/net5.0/monorat.deps.json
+/home/zavid/progII/monorat/bin/Debug/net5.0/monorat.runtimeconfig.json
+/home/zavid/progII/monorat/bin/Debug/net5.0/monorat.runtimeconfig.dev.json
+/home/zavid/progII/monorat/bin/Debug/net5.0/monorat.dll
+/home/zavid/progII/monorat/bin/Debug/net5.0/ref/monorat.dll
+/home/zavid/progII/monorat/bin/Debug/net5.0/monorat.pdb
+/home/zavid/progII/monorat/obj/Debug/net5.0/monorat.dll
+/home/zavid/progII/monorat/obj/Debug/net5.0/ref/monorat.dll
+/home/zavid/progII/monorat/obj/Debug/net5.0/monorat.pdb
+/home/zavid/progII/monorat/obj/Debug/net5.0/monorat.genruntimeconfig.cache

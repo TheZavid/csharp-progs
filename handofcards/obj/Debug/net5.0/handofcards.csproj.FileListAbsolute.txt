@@ -1,0 +1,16 @@
+/home/zavid/progII/handofcards/bin/Debug/net5.0/handofcards
+/home/zavid/progII/handofcards/bin/Debug/net5.0/handofcards.deps.json
+/home/zavid/progII/handofcards/bin/Debug/net5.0/handofcards.runtimeconfig.json
+/home/zavid/progII/handofcards/bin/Debug/net5.0/handofcards.runtimeconfig.dev.json
+/home/zavid/progII/handofcards/bin/Debug/net5.0/handofcards.dll
+/home/zavid/progII/handofcards/bin/Debug/net5.0/ref/handofcards.dll
+/home/zavid/progII/handofcards/bin/Debug/net5.0/handofcards.pdb
+/home/zavid/progII/handofcards/obj/Debug/net5.0/handofcards.csprojAssemblyReference.cache
+/home/zavid/progII/handofcards/obj/Debug/net5.0/handofcards.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/progII/handofcards/obj/Debug/net5.0/handofcards.AssemblyInfoInputs.cache
+/home/zavid/progII/handofcards/obj/Debug/net5.0/handofcards.AssemblyInfo.cs
+/home/zavid/progII/handofcards/obj/Debug/net5.0/handofcards.csproj.CoreCompileInputs.cache
+/home/zavid/progII/handofcards/obj/Debug/net5.0/handofcards.dll
+/home/zavid/progII/handofcards/obj/Debug/net5.0/ref/handofcards.dll
+/home/zavid/progII/handofcards/obj/Debug/net5.0/handofcards.pdb
+/home/zavid/progII/handofcards/obj/Debug/net5.0/handofcards.genruntimeconfig.cache

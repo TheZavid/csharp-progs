@@ -1,0 +1,16 @@
+/home/zavid/progII/graphcycl/bin/Debug/net5.0/graphcycl
+/home/zavid/progII/graphcycl/bin/Debug/net5.0/graphcycl.deps.json
+/home/zavid/progII/graphcycl/bin/Debug/net5.0/graphcycl.runtimeconfig.json
+/home/zavid/progII/graphcycl/bin/Debug/net5.0/graphcycl.runtimeconfig.dev.json
+/home/zavid/progII/graphcycl/bin/Debug/net5.0/graphcycl.dll
+/home/zavid/progII/graphcycl/bin/Debug/net5.0/ref/graphcycl.dll
+/home/zavid/progII/graphcycl/bin/Debug/net5.0/graphcycl.pdb
+/home/zavid/progII/graphcycl/obj/Debug/net5.0/graphcycl.csprojAssemblyReference.cache
+/home/zavid/progII/graphcycl/obj/Debug/net5.0/graphcycl.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/progII/graphcycl/obj/Debug/net5.0/graphcycl.AssemblyInfoInputs.cache
+/home/zavid/progII/graphcycl/obj/Debug/net5.0/graphcycl.AssemblyInfo.cs
+/home/zavid/progII/graphcycl/obj/Debug/net5.0/graphcycl.csproj.CoreCompileInputs.cache
+/home/zavid/progII/graphcycl/obj/Debug/net5.0/graphcycl.dll
+/home/zavid/progII/graphcycl/obj/Debug/net5.0/ref/graphcycl.dll
+/home/zavid/progII/graphcycl/obj/Debug/net5.0/graphcycl.pdb
+/home/zavid/progII/graphcycl/obj/Debug/net5.0/graphcycl.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/zavid/progII/num_wheel/bin/Debug/net5.0/num_wheel
+/home/zavid/progII/num_wheel/bin/Debug/net5.0/num_wheel.deps.json
+/home/zavid/progII/num_wheel/bin/Debug/net5.0/num_wheel.runtimeconfig.json
+/home/zavid/progII/num_wheel/bin/Debug/net5.0/num_wheel.runtimeconfig.dev.json
+/home/zavid/progII/num_wheel/bin/Debug/net5.0/num_wheel.dll
+/home/zavid/progII/num_wheel/bin/Debug/net5.0/ref/num_wheel.dll
+/home/zavid/progII/num_wheel/bin/Debug/net5.0/num_wheel.pdb
+/home/zavid/progII/num_wheel/obj/Debug/net5.0/num_wheel.csprojAssemblyReference.cache
+/home/zavid/progII/num_wheel/obj/Debug/net5.0/num_wheel.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/progII/num_wheel/obj/Debug/net5.0/num_wheel.AssemblyInfoInputs.cache
+/home/zavid/progII/num_wheel/obj/Debug/net5.0/num_wheel.AssemblyInfo.cs
+/home/zavid/progII/num_wheel/obj/Debug/net5.0/num_wheel.csproj.CoreCompileInputs.cache
+/home/zavid/progII/num_wheel/obj/Debug/net5.0/num_wheel.dll
+/home/zavid/progII/num_wheel/obj/Debug/net5.0/ref/num_wheel.dll
+/home/zavid/progII/num_wheel/obj/Debug/net5.0/num_wheel.pdb
+/home/zavid/progII/num_wheel/obj/Debug/net5.0/num_wheel.genruntimeconfig.cache

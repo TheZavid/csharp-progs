@@ -1,0 +1,16 @@
+/home/zavid/progII/dynarr/obj/Debug/net5.0/dynarr.csprojAssemblyReference.cache
+/home/zavid/progII/dynarr/obj/Debug/net5.0/dynarr.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/progII/dynarr/obj/Debug/net5.0/dynarr.AssemblyInfoInputs.cache
+/home/zavid/progII/dynarr/obj/Debug/net5.0/dynarr.AssemblyInfo.cs
+/home/zavid/progII/dynarr/obj/Debug/net5.0/dynarr.csproj.CoreCompileInputs.cache
+/home/zavid/progII/dynarr/bin/Debug/net5.0/dynarr
+/home/zavid/progII/dynarr/bin/Debug/net5.0/dynarr.deps.json
+/home/zavid/progII/dynarr/bin/Debug/net5.0/dynarr.runtimeconfig.json
+/home/zavid/progII/dynarr/bin/Debug/net5.0/dynarr.runtimeconfig.dev.json
+/home/zavid/progII/dynarr/bin/Debug/net5.0/dynarr.dll
+/home/zavid/progII/dynarr/bin/Debug/net5.0/ref/dynarr.dll
+/home/zavid/progII/dynarr/bin/Debug/net5.0/dynarr.pdb
+/home/zavid/progII/dynarr/obj/Debug/net5.0/dynarr.dll
+/home/zavid/progII/dynarr/obj/Debug/net5.0/ref/dynarr.dll
+/home/zavid/progII/dynarr/obj/Debug/net5.0/dynarr.pdb
+/home/zavid/progII/dynarr/obj/Debug/net5.0/dynarr.genruntimeconfig.cache

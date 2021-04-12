@@ -1,0 +1,16 @@
+/home/zavid/progII/bin/Debug/net5.0/progII
+/home/zavid/progII/bin/Debug/net5.0/progII.deps.json
+/home/zavid/progII/bin/Debug/net5.0/progII.runtimeconfig.json
+/home/zavid/progII/bin/Debug/net5.0/progII.runtimeconfig.dev.json
+/home/zavid/progII/bin/Debug/net5.0/progII.dll
+/home/zavid/progII/bin/Debug/net5.0/ref/progII.dll
+/home/zavid/progII/bin/Debug/net5.0/progII.pdb
+/home/zavid/progII/obj/Debug/net5.0/progII.csprojAssemblyReference.cache
+/home/zavid/progII/obj/Debug/net5.0/progII.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/progII/obj/Debug/net5.0/progII.AssemblyInfoInputs.cache
+/home/zavid/progII/obj/Debug/net5.0/progII.AssemblyInfo.cs
+/home/zavid/progII/obj/Debug/net5.0/progII.csproj.CoreCompileInputs.cache
+/home/zavid/progII/obj/Debug/net5.0/progII.dll
+/home/zavid/progII/obj/Debug/net5.0/ref/progII.dll
+/home/zavid/progII/obj/Debug/net5.0/progII.pdb
+/home/zavid/progII/obj/Debug/net5.0/progII.genruntimeconfig.cache

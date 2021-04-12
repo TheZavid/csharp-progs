@@ -1,0 +1,16 @@
+/home/zavid/progII/nfac/obj/Debug/net5.0/nfac.csprojAssemblyReference.cache
+/home/zavid/progII/nfac/obj/Debug/net5.0/nfac.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/progII/nfac/obj/Debug/net5.0/nfac.AssemblyInfoInputs.cache
+/home/zavid/progII/nfac/obj/Debug/net5.0/nfac.AssemblyInfo.cs
+/home/zavid/progII/nfac/obj/Debug/net5.0/nfac.csproj.CoreCompileInputs.cache
+/home/zavid/progII/nfac/bin/Debug/net5.0/nfac
+/home/zavid/progII/nfac/bin/Debug/net5.0/nfac.deps.json
+/home/zavid/progII/nfac/bin/Debug/net5.0/nfac.runtimeconfig.json
+/home/zavid/progII/nfac/bin/Debug/net5.0/nfac.runtimeconfig.dev.json
+/home/zavid/progII/nfac/bin/Debug/net5.0/nfac.dll
+/home/zavid/progII/nfac/bin/Debug/net5.0/ref/nfac.dll
+/home/zavid/progII/nfac/bin/Debug/net5.0/nfac.pdb
+/home/zavid/progII/nfac/obj/Debug/net5.0/nfac.dll
+/home/zavid/progII/nfac/obj/Debug/net5.0/ref/nfac.dll
+/home/zavid/progII/nfac/obj/Debug/net5.0/nfac.pdb
+/home/zavid/progII/nfac/obj/Debug/net5.0/nfac.genruntimeconfig.cache
