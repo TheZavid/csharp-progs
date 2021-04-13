@@ -1,0 +1,16 @@
+/home/zavid/csharp-progs/typesetting/obj/Debug/net5.0/typesetting.csprojAssemblyReference.cache
+/home/zavid/csharp-progs/typesetting/obj/Debug/net5.0/typesetting.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/csharp-progs/typesetting/obj/Debug/net5.0/typesetting.AssemblyInfoInputs.cache
+/home/zavid/csharp-progs/typesetting/obj/Debug/net5.0/typesetting.AssemblyInfo.cs
+/home/zavid/csharp-progs/typesetting/obj/Debug/net5.0/typesetting.csproj.CoreCompileInputs.cache
+/home/zavid/csharp-progs/typesetting/bin/Debug/net5.0/typesetting
+/home/zavid/csharp-progs/typesetting/bin/Debug/net5.0/typesetting.deps.json
+/home/zavid/csharp-progs/typesetting/bin/Debug/net5.0/typesetting.runtimeconfig.json
+/home/zavid/csharp-progs/typesetting/bin/Debug/net5.0/typesetting.runtimeconfig.dev.json
+/home/zavid/csharp-progs/typesetting/bin/Debug/net5.0/typesetting.dll
+/home/zavid/csharp-progs/typesetting/bin/Debug/net5.0/ref/typesetting.dll
+/home/zavid/csharp-progs/typesetting/bin/Debug/net5.0/typesetting.pdb
+/home/zavid/csharp-progs/typesetting/obj/Debug/net5.0/typesetting.dll
+/home/zavid/csharp-progs/typesetting/obj/Debug/net5.0/ref/typesetting.dll
+/home/zavid/csharp-progs/typesetting/obj/Debug/net5.0/typesetting.pdb
+/home/zavid/csharp-progs/typesetting/obj/Debug/net5.0/typesetting.genruntimeconfig.cache

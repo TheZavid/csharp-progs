@@ -1,0 +1,16 @@
+/home/zavid/csharp-progs/elemcell/bin/Debug/net5.0/elemcell
+/home/zavid/csharp-progs/elemcell/bin/Debug/net5.0/elemcell.deps.json
+/home/zavid/csharp-progs/elemcell/bin/Debug/net5.0/elemcell.runtimeconfig.json
+/home/zavid/csharp-progs/elemcell/bin/Debug/net5.0/elemcell.runtimeconfig.dev.json
+/home/zavid/csharp-progs/elemcell/bin/Debug/net5.0/elemcell.dll
+/home/zavid/csharp-progs/elemcell/bin/Debug/net5.0/ref/elemcell.dll
+/home/zavid/csharp-progs/elemcell/bin/Debug/net5.0/elemcell.pdb
+/home/zavid/csharp-progs/elemcell/obj/Debug/net5.0/elemcell.csprojAssemblyReference.cache
+/home/zavid/csharp-progs/elemcell/obj/Debug/net5.0/elemcell.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/csharp-progs/elemcell/obj/Debug/net5.0/elemcell.AssemblyInfoInputs.cache
+/home/zavid/csharp-progs/elemcell/obj/Debug/net5.0/elemcell.AssemblyInfo.cs
+/home/zavid/csharp-progs/elemcell/obj/Debug/net5.0/elemcell.csproj.CoreCompileInputs.cache
+/home/zavid/csharp-progs/elemcell/obj/Debug/net5.0/elemcell.dll
+/home/zavid/csharp-progs/elemcell/obj/Debug/net5.0/ref/elemcell.dll
+/home/zavid/csharp-progs/elemcell/obj/Debug/net5.0/elemcell.pdb
+/home/zavid/csharp-progs/elemcell/obj/Debug/net5.0/elemcell.genruntimeconfig.cache
