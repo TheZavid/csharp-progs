@@ -1,0 +1,16 @@
+/home/zavid/csharp-progs/replet/obj/Debug/net5.0/replet.csprojAssemblyReference.cache
+/home/zavid/csharp-progs/replet/obj/Debug/net5.0/replet.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/csharp-progs/replet/obj/Debug/net5.0/replet.AssemblyInfoInputs.cache
+/home/zavid/csharp-progs/replet/obj/Debug/net5.0/replet.AssemblyInfo.cs
+/home/zavid/csharp-progs/replet/obj/Debug/net5.0/replet.csproj.CoreCompileInputs.cache
+/home/zavid/csharp-progs/replet/bin/Debug/net5.0/replet
+/home/zavid/csharp-progs/replet/bin/Debug/net5.0/replet.deps.json
+/home/zavid/csharp-progs/replet/bin/Debug/net5.0/replet.runtimeconfig.json
+/home/zavid/csharp-progs/replet/bin/Debug/net5.0/replet.runtimeconfig.dev.json
+/home/zavid/csharp-progs/replet/bin/Debug/net5.0/replet.dll
+/home/zavid/csharp-progs/replet/bin/Debug/net5.0/ref/replet.dll
+/home/zavid/csharp-progs/replet/bin/Debug/net5.0/replet.pdb
+/home/zavid/csharp-progs/replet/obj/Debug/net5.0/replet.dll
+/home/zavid/csharp-progs/replet/obj/Debug/net5.0/ref/replet.dll
+/home/zavid/csharp-progs/replet/obj/Debug/net5.0/replet.pdb
+/home/zavid/csharp-progs/replet/obj/Debug/net5.0/replet.genruntimeconfig.cache
