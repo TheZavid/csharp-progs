@@ -1,0 +1,16 @@
+/home/zavid/csharp-progs/kosaraju/bin/Debug/net5.0/kosaraju
+/home/zavid/csharp-progs/kosaraju/bin/Debug/net5.0/kosaraju.deps.json
+/home/zavid/csharp-progs/kosaraju/bin/Debug/net5.0/kosaraju.runtimeconfig.json
+/home/zavid/csharp-progs/kosaraju/bin/Debug/net5.0/kosaraju.runtimeconfig.dev.json
+/home/zavid/csharp-progs/kosaraju/bin/Debug/net5.0/kosaraju.dll
+/home/zavid/csharp-progs/kosaraju/bin/Debug/net5.0/ref/kosaraju.dll
+/home/zavid/csharp-progs/kosaraju/bin/Debug/net5.0/kosaraju.pdb
+/home/zavid/csharp-progs/kosaraju/obj/Debug/net5.0/kosaraju.csprojAssemblyReference.cache
+/home/zavid/csharp-progs/kosaraju/obj/Debug/net5.0/kosaraju.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/csharp-progs/kosaraju/obj/Debug/net5.0/kosaraju.AssemblyInfoInputs.cache
+/home/zavid/csharp-progs/kosaraju/obj/Debug/net5.0/kosaraju.AssemblyInfo.cs
+/home/zavid/csharp-progs/kosaraju/obj/Debug/net5.0/kosaraju.csproj.CoreCompileInputs.cache
+/home/zavid/csharp-progs/kosaraju/obj/Debug/net5.0/kosaraju.dll
+/home/zavid/csharp-progs/kosaraju/obj/Debug/net5.0/ref/kosaraju.dll
+/home/zavid/csharp-progs/kosaraju/obj/Debug/net5.0/kosaraju.pdb
+/home/zavid/csharp-progs/kosaraju/obj/Debug/net5.0/kosaraju.genruntimeconfig.cache
