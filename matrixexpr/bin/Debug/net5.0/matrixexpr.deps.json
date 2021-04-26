@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "matrixexpr/1.0.0": {
+        "runtime": {
+          "matrixexpr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "matrixexpr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

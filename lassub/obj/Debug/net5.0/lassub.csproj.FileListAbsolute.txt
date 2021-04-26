@@ -1,0 +1,16 @@
+/home/zavid/csharp-progs/lassub/obj/Debug/net5.0/lassub.csprojAssemblyReference.cache
+/home/zavid/csharp-progs/lassub/obj/Debug/net5.0/lassub.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/csharp-progs/lassub/obj/Debug/net5.0/lassub.AssemblyInfoInputs.cache
+/home/zavid/csharp-progs/lassub/obj/Debug/net5.0/lassub.AssemblyInfo.cs
+/home/zavid/csharp-progs/lassub/obj/Debug/net5.0/lassub.csproj.CoreCompileInputs.cache
+/home/zavid/csharp-progs/lassub/bin/Debug/net5.0/lassub
+/home/zavid/csharp-progs/lassub/bin/Debug/net5.0/lassub.deps.json
+/home/zavid/csharp-progs/lassub/bin/Debug/net5.0/lassub.runtimeconfig.json
+/home/zavid/csharp-progs/lassub/bin/Debug/net5.0/lassub.runtimeconfig.dev.json
+/home/zavid/csharp-progs/lassub/bin/Debug/net5.0/lassub.dll
+/home/zavid/csharp-progs/lassub/bin/Debug/net5.0/ref/lassub.dll
+/home/zavid/csharp-progs/lassub/bin/Debug/net5.0/lassub.pdb
+/home/zavid/csharp-progs/lassub/obj/Debug/net5.0/lassub.dll
+/home/zavid/csharp-progs/lassub/obj/Debug/net5.0/ref/lassub.dll
+/home/zavid/csharp-progs/lassub/obj/Debug/net5.0/lassub.pdb
+/home/zavid/csharp-progs/lassub/obj/Debug/net5.0/lassub.genruntimeconfig.cache

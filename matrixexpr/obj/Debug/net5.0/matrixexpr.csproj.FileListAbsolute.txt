@@ -1,0 +1,16 @@
+/home/zavid/csharp-progs/matrixexpr/obj/Debug/net5.0/matrixexpr.csprojAssemblyReference.cache
+/home/zavid/csharp-progs/matrixexpr/obj/Debug/net5.0/matrixexpr.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/csharp-progs/matrixexpr/obj/Debug/net5.0/matrixexpr.AssemblyInfoInputs.cache
+/home/zavid/csharp-progs/matrixexpr/obj/Debug/net5.0/matrixexpr.AssemblyInfo.cs
+/home/zavid/csharp-progs/matrixexpr/obj/Debug/net5.0/matrixexpr.csproj.CoreCompileInputs.cache
+/home/zavid/csharp-progs/matrixexpr/bin/Debug/net5.0/matrixexpr
+/home/zavid/csharp-progs/matrixexpr/bin/Debug/net5.0/matrixexpr.deps.json
+/home/zavid/csharp-progs/matrixexpr/bin/Debug/net5.0/matrixexpr.runtimeconfig.json
+/home/zavid/csharp-progs/matrixexpr/bin/Debug/net5.0/matrixexpr.runtimeconfig.dev.json
+/home/zavid/csharp-progs/matrixexpr/bin/Debug/net5.0/matrixexpr.dll
+/home/zavid/csharp-progs/matrixexpr/bin/Debug/net5.0/ref/matrixexpr.dll
+/home/zavid/csharp-progs/matrixexpr/bin/Debug/net5.0/matrixexpr.pdb
+/home/zavid/csharp-progs/matrixexpr/obj/Debug/net5.0/matrixexpr.dll
+/home/zavid/csharp-progs/matrixexpr/obj/Debug/net5.0/ref/matrixexpr.dll
+/home/zavid/csharp-progs/matrixexpr/obj/Debug/net5.0/matrixexpr.pdb
+/home/zavid/csharp-progs/matrixexpr/obj/Debug/net5.0/matrixexpr.genruntimeconfig.cache
