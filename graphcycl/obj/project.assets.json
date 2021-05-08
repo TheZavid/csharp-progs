@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zavid/progII/graphcycl/graphcycl.csproj",
+      "projectUniqueName": "/home/zavid/csharp-progs/graphcycl/graphcycl.csproj",
       "projectName": "graphcycl",
-      "projectPath": "/home/zavid/progII/graphcycl/graphcycl.csproj",
+      "projectPath": "/home/zavid/csharp-progs/graphcycl/graphcycl.csproj",
       "packagesPath": "/home/zavid/.nuget/packages/",
-      "outputPath": "/home/zavid/progII/graphcycl/obj/",
+      "outputPath": "/home/zavid/csharp-progs/graphcycl/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/zavid/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

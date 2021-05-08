@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VEydxwvQminjd6bckBpH6w9OW7zW6JyQLKJayPEjsH16UOMPv4ssS58mniNJtC+Fx2kO+zmHMAfeibDExYgaWQ==",
+  "dgSpecHash": "ITB+k6ro4E36SZOu4Gt66BbUanNculLR6hbV8vnpNTqdrDLoLGxjdVZG1MJ9WhYV2RTLpp5rqAoNHd+SUZRa1g==",
   "success": true,
-  "projectFilePath": "/home/zavid/progII/strper/strper.csproj",
+  "projectFilePath": "/home/zavid/csharp-progs/strper/strper.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

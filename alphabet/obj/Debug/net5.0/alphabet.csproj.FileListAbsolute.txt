@@ -1,0 +1,16 @@
+/home/zavid/csharp-progs/alphabet/obj/Debug/net5.0/alphabet.csprojAssemblyReference.cache
+/home/zavid/csharp-progs/alphabet/obj/Debug/net5.0/alphabet.GeneratedMSBuildEditorConfig.editorconfig
+/home/zavid/csharp-progs/alphabet/obj/Debug/net5.0/alphabet.AssemblyInfoInputs.cache
+/home/zavid/csharp-progs/alphabet/obj/Debug/net5.0/alphabet.AssemblyInfo.cs
+/home/zavid/csharp-progs/alphabet/obj/Debug/net5.0/alphabet.csproj.CoreCompileInputs.cache
+/home/zavid/csharp-progs/alphabet/bin/Debug/net5.0/alphabet
+/home/zavid/csharp-progs/alphabet/bin/Debug/net5.0/alphabet.deps.json
+/home/zavid/csharp-progs/alphabet/bin/Debug/net5.0/alphabet.runtimeconfig.json
+/home/zavid/csharp-progs/alphabet/bin/Debug/net5.0/alphabet.runtimeconfig.dev.json
+/home/zavid/csharp-progs/alphabet/bin/Debug/net5.0/alphabet.dll
+/home/zavid/csharp-progs/alphabet/bin/Debug/net5.0/ref/alphabet.dll
+/home/zavid/csharp-progs/alphabet/bin/Debug/net5.0/alphabet.pdb
+/home/zavid/csharp-progs/alphabet/obj/Debug/net5.0/alphabet.dll
+/home/zavid/csharp-progs/alphabet/obj/Debug/net5.0/ref/alphabet.dll
+/home/zavid/csharp-progs/alphabet/obj/Debug/net5.0/alphabet.pdb
+/home/zavid/csharp-progs/alphabet/obj/Debug/net5.0/alphabet.genruntimeconfig.cache

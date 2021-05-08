@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FCNLbUTYA6JM0dy0lB2tuhfHX4zMlxUG/hOARxyA1MWLLVPv+Ki1IFDvKP+0R9VUfw9PSjb8Z9Bgr8g97fRghA==",
+  "dgSpecHash": "sGDx2PRQ+fbAQ8fhZBjr+Fdzh0AhghwqRELdVbL+0mRGasfSQsPiCHDlcY54UgeUs/Sw4pmpHL28MHRIm1xWeA==",
   "success": true,
-  "projectFilePath": "/home/zavid/progII/dynarr/dynarr.csproj",
+  "projectFilePath": "/home/zavid/csharp-progs/dynarr/dynarr.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

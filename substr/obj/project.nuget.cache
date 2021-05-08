@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pLNaU0FlSi2ADTr/5ydEK0IY6H8r8ZsEnNszB5krsVpB81Hu2GDKzoy606CcJ/3nplE6+efNp3jWFK3KdpGEdw==",
+  "dgSpecHash": "3/En1JdWx7j7UV9lDAw5f4gZvuHOPLqiWm3ynhH10I15nk+k3Et1xXqfXRmgHTQsxu/DJ0mFLMrmREelQ01HBQ==",
   "success": true,
-  "projectFilePath": "/home/zavid/progII/progII.csproj",
+  "projectFilePath": "/home/zavid/csharp-progs/substr/progII.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

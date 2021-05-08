@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OxXaTd22msKUs/6SxR/Wobbl+vgXXdiiSeY8tuSejbT8J8lQgBab9Nhr6fdH0AziW6BsyGrzlWnzrK8s0OGvCw==",
+  "dgSpecHash": "pUyDWpsPO10v2m3UAdo+UUu6XxNMnTvqJPu/NY7p5rm/fjF8OaoH5BT4gwHtwQPJIHzQ1CSMGTywIVVEVcOxyA==",
   "success": true,
-  "projectFilePath": "/home/zavid/progII/nfac/nfac.csproj",
+  "projectFilePath": "/home/zavid/csharp-progs/nfac/nfac.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/zavid/progII/handofcards/handofcards.csproj": {}
+    "/home/zavid/csharp-progs/handofcards/handofcards.csproj": {}
   },
   "projects": {
-    "/home/zavid/progII/handofcards/handofcards.csproj": {
+    "/home/zavid/csharp-progs/handofcards/handofcards.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zavid/progII/handofcards/handofcards.csproj",
+        "projectUniqueName": "/home/zavid/csharp-progs/handofcards/handofcards.csproj",
         "projectName": "handofcards",
-        "projectPath": "/home/zavid/progII/handofcards/handofcards.csproj",
+        "projectPath": "/home/zavid/csharp-progs/handofcards/handofcards.csproj",
         "packagesPath": "/home/zavid/.nuget/packages/",
-        "outputPath": "/home/zavid/progII/handofcards/obj/",
+        "outputPath": "/home/zavid/csharp-progs/handofcards/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/zavid/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

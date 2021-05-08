@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ejHO8P4JkA+UZTWZYQkaUQYtveFcaI1UZqTuG3+A1hVO+PqZMCv/uVmc3DqrdoM+pPNPHcuixeHSAxrzBJevog==",
+  "dgSpecHash": "IJUBVJ/4kGOlMvVpHIV5azsLeVhC5AABBQERs+1DwNczcGW8twaz8nNQDDphyITYHDTIKvwXWAn0c3iBbvZG9Q==",
   "success": true,
-  "projectFilePath": "/home/zavid/progII/num_wheel/num_wheel.csproj",
+  "projectFilePath": "/home/zavid/csharp-progs/num_wheel/num_wheel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

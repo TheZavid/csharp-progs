@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b+hcVrhtp0bsRSeR/r0muWtyo5mmJFIF5z85n2dRjT+kz34zbvymBbURYSqSHpxTs9NX3OUKHVtZ0DqBMdHV2w==",
+  "dgSpecHash": "bIT2TRnK/w5HDA9GkseQ0xSQfPEX6t8OtYb0fV9B1sBkyPmFSNe/7giwps+58fkjm6zE8xOMf7aDUsAzWCTozQ==",
   "success": true,
-  "projectFilePath": "/home/zavid/progII/pathofrook/pathofrook.csproj",
+  "projectFilePath": "/home/zavid/csharp-progs/pathofrook/pathofrook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

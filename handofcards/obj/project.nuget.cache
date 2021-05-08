@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xEb5OSvqkCovOKB5ld3rD+RBb6CLVXPvvtwbLcw5z7XgNuTXhFv/bOgOpiUUjQUBNHm4BmJ7xF3NIntdiQICng==",
+  "dgSpecHash": "0rk8mMmGzlaD8cFKVoo5l86wR/h6U+3NykeueEQRGg3WNnj+JDtsIRmPHUcet+VXTyrkRBagQFfX8dIecmgEIA==",
   "success": true,
-  "projectFilePath": "/home/zavid/progII/handofcards/handofcards.csproj",
+  "projectFilePath": "/home/zavid/csharp-progs/handofcards/handofcards.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

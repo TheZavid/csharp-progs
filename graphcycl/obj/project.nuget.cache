@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ylbRNrU4A7SGgE+KhOUzIFFzzc14guCGcndRRLhhOVjAiRcYIue/0SxUHj8NWZ3GfPjPHPGuYApjfyow8gfvpQ==",
+  "dgSpecHash": "F19Ztlstv7gO3wgShssn2skdpZVfdNelx4QdwgI7iLlRU0derrObkKz7pvHMEOCi7mw3xCRPuM3w9eN5Ll0cPg==",
   "success": true,
-  "projectFilePath": "/home/zavid/progII/graphcycl/graphcycl.csproj",
+  "projectFilePath": "/home/zavid/csharp-progs/graphcycl/graphcycl.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

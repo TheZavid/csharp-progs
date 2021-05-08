@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zavid/progII/dynarr/dynarr.csproj",
+      "projectUniqueName": "/home/zavid/csharp-progs/dynarr/dynarr.csproj",
       "projectName": "dynarr",
-      "projectPath": "/home/zavid/progII/dynarr/dynarr.csproj",
+      "projectPath": "/home/zavid/csharp-progs/dynarr/dynarr.csproj",
       "packagesPath": "/home/zavid/.nuget/packages/",
-      "outputPath": "/home/zavid/progII/dynarr/obj/",
+      "outputPath": "/home/zavid/csharp-progs/dynarr/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/zavid/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

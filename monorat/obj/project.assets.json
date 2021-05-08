@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zavid/progII/monorat/monorat.csproj",
+      "projectUniqueName": "/home/zavid/csharp-progs/monorat/monorat.csproj",
       "projectName": "monorat",
-      "projectPath": "/home/zavid/progII/monorat/monorat.csproj",
+      "projectPath": "/home/zavid/csharp-progs/monorat/monorat.csproj",
       "packagesPath": "/home/zavid/.nuget/packages/",
-      "outputPath": "/home/zavid/progII/monorat/obj/",
+      "outputPath": "/home/zavid/csharp-progs/monorat/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/zavid/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

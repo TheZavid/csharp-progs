@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/zavid/progII/progII.csproj": {}
+    "/home/zavid/csharp-progs/substr/progII.csproj": {}
   },
   "projects": {
-    "/home/zavid/progII/progII.csproj": {
+    "/home/zavid/csharp-progs/substr/progII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zavid/progII/progII.csproj",
+        "projectUniqueName": "/home/zavid/csharp-progs/substr/progII.csproj",
         "projectName": "progII",
-        "projectPath": "/home/zavid/progII/progII.csproj",
+        "projectPath": "/home/zavid/csharp-progs/substr/progII.csproj",
         "packagesPath": "/home/zavid/.nuget/packages/",
-        "outputPath": "/home/zavid/progII/obj/",
+        "outputPath": "/home/zavid/csharp-progs/substr/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/zavid/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

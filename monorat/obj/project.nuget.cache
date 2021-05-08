@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gsJZ2/sPNyecQWmBEuky55UY7UPNvkFf+BcYdBKwwJTPv1kqsfvpioUJ7PMW9QW4bUcqu0am+Hwu1ExD/CvQCw==",
+  "dgSpecHash": "uc0x5F/85ZxfF63Bjx+ARmE/4WSWMn7KQmRgllyzaQ0BWn0l4KoPHwBoh7UjttcvfqimXc6oBCwF9RoHaYk8wg==",
   "success": true,
-  "projectFilePath": "/home/zavid/progII/monorat/monorat.csproj",
+  "projectFilePath": "/home/zavid/csharp-progs/monorat/monorat.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
