@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dYzCJgNrRqCzSQCXbbTwP9xE+uzKX5s3muTb9EMIFo67P/65pEOEuzc5h6fv4ViWZw1D17iMavTQmEZJ/lRy0A==",
+  "success": true,
+  "projectFilePath": "/home/zavid/csharp-progs/test/test.csproj",
+  "expectedPackageFiles": [
+    "/home/zavid/.nuget/packages/atksharp/3.24.24.34/atksharp.3.24.24.34.nupkg.sha512",
+    "/home/zavid/.nuget/packages/cairosharp/3.24.24.34/cairosharp.3.24.24.34.nupkg.sha512",
+    "/home/zavid/.nuget/packages/gdksharp/3.24.24.34/gdksharp.3.24.24.34.nupkg.sha512",
+    "/home/zavid/.nuget/packages/giosharp/3.24.24.34/giosharp.3.24.24.34.nupkg.sha512",
+    "/home/zavid/.nuget/packages/glibsharp/3.24.24.34/glibsharp.3.24.24.34.nupkg.sha512",
+    "/home/zavid/.nuget/packages/gtksharp/3.24.24.34/gtksharp.3.24.24.34.nupkg.sha512",
+    "/home/zavid/.nuget/packages/pangosharp/3.24.24.34/pangosharp.3.24.24.34.nupkg.sha512",
+    "/home/zavid/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
